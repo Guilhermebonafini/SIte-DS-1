@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+main{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+main h1{
+    color: aliceblue;
+}
+img{
+    height: 100px;
+width: 150px;
+}
