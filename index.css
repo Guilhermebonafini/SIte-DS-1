@@ -1,17 +1,25 @@
 body{
-    background-color: black;
+    background-color: rgb(117, 114, 117);
 }
 
 body h1{
-    color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+
     
 }
 body h4{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 a{
     text-decoration: none;
+}
+img{
+ position: relative;
+ left: 1800px;
+ height: 50px;
+ width:50px ;
+
 }
